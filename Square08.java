@@ -1,4 +1,4 @@
-package jobsheet5;
+package Perulangan;
 import java.util.Scanner;
 public class Square08 {
      public static void main(String[] args) {
